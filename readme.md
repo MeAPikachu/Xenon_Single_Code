@@ -1,4 +1,4 @@
-This repository is the code for the single phase gain simulation, and the report itself is here at the . 
+This repository is the code for the single phase gain simulation, and the report itself is here at the https://xe1t-wiki.lngs.infn.it/doku.php?id=chengjie:xenonsingle_second_report. You may need the XenonNT wiki permission to get it. 
 
 Basic Files:
 - reproduce_comsol.ipynb : Run this notebook on a Windows workstation installed with Comsol, this notebook will modify its parameters and export the simulation results automatically
